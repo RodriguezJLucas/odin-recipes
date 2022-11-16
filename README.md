@@ -1,1 +1,1 @@
-# odin-recipes
+En este proyecto crearemos una pagina de recetas basica.
